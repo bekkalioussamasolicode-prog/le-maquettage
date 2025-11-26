@@ -1,19 +1,37 @@
-Figma :
+Figma : 
 
-- Excellent pour la collaboration en temps réel (plusieurs personnes modifient en même temps).
+Strengths :
 
-- Fonctionne dans le navigateur, accessible partout.
+- Excellent real-time collaboration (multiple people editing at once).
 
-- Grande bibliothèque de plugins et de ressources.
+- Browser-based → works on any device, no installation needed.
 
-- Outil moderne, mis à jour régulièrement.
+- Large plugin ecosystem and strong community resources.
+
+- Easy sharing with simple links.
+
+Limitations :
+
+- Requires constant internet connection for best experience.
+
+- Can feel heavy on low-power machines.
+
+- Some advanced prototyping still requires plugins.
 
 Adobe XD :
 
-- Rapide et facile à utiliser.
+Strengths :
 
-- Très bonne intégration avec les outils Adobe (Photoshop, Illustrator).
+- Very fast and lightweight performance.
 
-- Collaboration plus limitée.
+- Strong integration with Adobe Creative Cloud (Photoshop, Illustrator).
 
-- Développement ralenti → futur incertain.
+- Good for simple to mid-level prototypes with smooth transitions.
+
+Limitations :
+
+- Collaboration features are not as advanced as Figma.
+
+- Adobe discontinued active development in 2023 → limited future updates.
+
+- Smaller community and fewer plugins.
