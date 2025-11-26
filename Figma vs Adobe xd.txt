@@ -1,0 +1,19 @@
+Figma :
+
+- Excellent pour la collaboration en temps réel (plusieurs personnes modifient en même temps).
+
+- Fonctionne dans le navigateur, accessible partout.
+
+- Grande bibliothèque de plugins et de ressources.
+
+- Outil moderne, mis à jour régulièrement.
+
+Adobe XD :
+
+- Rapide et facile à utiliser.
+
+- Très bonne intégration avec les outils Adobe (Photoshop, Illustrator).
+
+- Collaboration plus limitée.
+
+- Développement ralenti → futur incertain.
